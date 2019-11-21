@@ -35,7 +35,24 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 11,
-    "versionPublish": "4.11.5"
+    "versionPublish": "4.11.5",
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "": "on",
+    "noImageResize": true,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": false,
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-375942-4\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-375942-4');\n</script>",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
